@@ -1,0 +1,7 @@
+cache/
+chroot/
+binary/
+.build/
+local/
+*.iso
+*.squashfs

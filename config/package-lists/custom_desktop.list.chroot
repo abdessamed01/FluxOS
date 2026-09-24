@@ -1,0 +1,31 @@
+# Kernel & Boot
+linux-image-amd64
+live-boot
+systemd-sysv
+firmware-linux
+firmware-linux-nonfree
+
+# Core Display & Compositor
+labwc
+foot
+waybar
+swaybg
+fuzzel
+seatd
+dbus
+dbus-user-session
+
+# Audio & Hardware
+pipewire
+pipewire-pulse
+wireplumber
+network-manager
+libglib2.0-bin
+
+# Utilities
+grim
+slurp
+wl-clipboard
+ksnip
+sudo
+nano
