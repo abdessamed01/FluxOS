@@ -1,7 +1,10 @@
-cache/
-chroot/
-binary/
-.build/
-local/
+*.log
+wget-log*
+*.files
+*.packages
+*.contents
 *.iso
-*.squashfs
+binary/
+chroot/
+.build/
+binary.modified_timestamps
